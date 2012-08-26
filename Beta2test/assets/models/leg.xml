@@ -1,0 +1,11 @@
+<root>
+    <header title="People">
+        <item  leg="images/BlackLeg.png"/>
+        <item  leg="images/BlueLeg.png"/>
+        <item  leg="images/RedLeg.png"/>
+        <item  leg="images/GreenLeg.png"/>
+        <item  leg="images/YellowLeg.png"/>
+        
+        </header>
+        
+</root>

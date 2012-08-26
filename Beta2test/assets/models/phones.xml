@@ -1,0 +1,18 @@
+<root>
+    <header title="Phones">
+        <item  title=" Dev Alpha" thumbURL="images/devalpha.jpg" description=" Touch"/>
+        <item  title=" Bold 9900" thumbURL="images/9900.jpg" description=" Touch+QWERTY"/>
+        <item  title=" Torch 9810" thumbURL="images/9810.jpg" description=" Touch+QWERTY (Slider)"/>
+        <item  title=" Style 9670" thumbURL="images/9670.jpg" description=" QWERTY"/>
+        <item  title=" Pearl 9100" thumbURL="images/9100.jpg" description=" SureType"/>
+        <item  title=" Curve 8900" thumbURL="images/8900.jpg" description=" QWERTY"/>
+        <item  title=" Dev Alpha" thumbURL="images/devalpha.jpg" description=" Touch"/>
+        <item  title=" Bold 9900" thumbURL="images/9900.jpg" description=" Touch+QWERTY"/>
+        <item  title=" Torch 9810" thumbURL="images/9810.jpg" description=" Touch+QWERTY (Slider)"/>
+        <item  title=" Style 9670" thumbURL="images/9670.jpg" description=" QWERTY"/>
+        <item  title=" Pearl 9100" thumbURL="images/9100.jpg" description=" SureType"/>
+        <item  title=" Curve 8900" thumbURL="images/8900.jpg" description=" QWERTY"/>
+
+        </header>
+        
+</root>
